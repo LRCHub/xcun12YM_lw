@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "狼煙",
+  "base_artist": "大神ミオ",
+  "createdAt": "2025-12-19T06:38:57.827212Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "狼煙",
+      "artist": "syudou",
+      "has_synced": true,
+      "path": "select/01_狼煙_syudou.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "S.M.O.K.E. 狼煙 - S.M.O.K.E. (feat. KENZY 小春)",
+      "artist": "ØZI",
+      "has_synced": true,
+      "path": "select/02_S.M.O.K.E._狼煙_-_S.M.O.K.E._(feat._KENZY_小春)_ØZI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "狼煙 - Noroshi",
+      "artist": "syudou",
+      "has_synced": true,
+      "path": "select/03_狼煙_-_Noroshi_syudou.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "S.M.O.K.E. 狼煙",
+      "artist": "ØZI",
+      "has_synced": true,
+      "path": "select/04_S.M.O.K.E._狼煙_ØZI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "狼煙",
+      "artist": "大神ミオ",
+      "has_synced": false,
+      "path": "select/pl_01_狼煙_大神ミオ.txt"
+    }
+  ]
+}
